@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me:
 ### I'm a Front-end Developer from Seoul, Korea
 - 🔍 Currently job seeking
-- 😍 Interested in JavaScript, and It's ecosystem (+ TyprScript)
+- 😍 Interested in JavaScript, and It's ecosystem (+ TypeScript)
 - 🧑‍⚖️ Stick to deadlines (almost with coffee)
 - 📝 Blog about tech topics I learned
 - 🍭 Solve a problem on Baekjoon Online Judge everyday

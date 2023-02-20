@@ -1,9 +1,9 @@
 <h1 align="center">
   Hello world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hello" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="stick to deadline" width="200"/>
 </div>
 <div align="center">
   <a href="https://ggarden.tistory.com/" target="_blank">
@@ -13,16 +13,13 @@
     <img src="https://img.shields.io/badge/solved.ac-green?style=for-the-badge&logo=tinder&logoColor=white" alt="solvedac badge">
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jong-k&style=flat-square&color=blue" alt="profile hits"/>
-</div>
 <hr>
 
 ## 👨‍💻 About Me:
 ### I'm a Front-end Developer from Seoul, Korea
 - 🔍 Currently job seeking
+- ⭐ Have most time on developing with React
 - 😍 Interested in JavaScript, and It's ecosystem (+ TypeScript)
-- 🧑‍⚖️ Stick to deadlines (almost with coffee)
 - 📝 Blog about tech topics I learned
 - 🍭 Solve a problem on Baekjoon Online Judge everyday
 
@@ -63,12 +60,6 @@
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" alt="gatsby">
   </a>&nbsp;
-  <a href="https://webpack.js.org/">
-    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack">
-  </a>&nbsp;
-  <a href="https://babeljs.io/">
-    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel">
-  </a>&nbsp;
   <a href="https://www.python.org/">
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python">
   </a>
@@ -96,6 +87,3 @@
     <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion">
   </a>&nbsp;
 </div>
-
-## 🏛️  ️Repositories
-### Redux Toolkit

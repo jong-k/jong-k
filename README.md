@@ -55,7 +55,7 @@
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs">
   </a>&nbsp;
   <a href="https://react-query-v3.tanstack.com/" target="_blank">
-    <img width="60" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react-query">
+    <img width="60" src="https://ph-files.imgix.net/5f726e81-d837-443c-a4b5-81c0402249d9.png?auto=format" alt="react-query">
   </a>&nbsp;
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" alt="gatsby">

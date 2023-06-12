@@ -1,0 +1,55 @@
+@use "styles/variables" as v;
+
+.wrapper {
+  width: v.$headerWidth;
+  background: v.$navy;
+  height: 100vh;
+
+  h2:nth-child(1) {
+    margin: 3rem 0 0.5rem 0;
+  }
+
+  h2:nth-child(2) {
+    font-size: 3rem;
+  }
+  
+  @media (max-width: v.$desktopWidth) {
+    display: none;
+  }
+}
+
+.headerTitle {
+  text-align: center;
+  color: v.$white;
+  font-weight: 100;
+  font-size: 3rem;
+  letter-spacing: 0.25rem;
+  margin: 0.5rem;
+
+  svg {
+    transform: translateY(12.5%);
+  }
+}
+
+.navContainer {
+  margin: 3rem 0;
+
+  div:nth-child(1) {
+    border-top: 0.25px solid v.$white;
+  }
+}
+
+.menu {
+  border-bottom: 1px solid v.$white;
+  height: 4.5rem;
+  padding-left: v.$menuLeftPadding;
+  display: flex;
+  align-items: center;
+}
+
+.tab {
+  font-weight: 100;
+  color: v.$white;
+  font-size: 1.5rem;
+  letter-spacing: 0.05rem;
+}

@@ -12,8 +12,9 @@
   h2:nth-child(2) {
     font-size: 3rem;
   }
-  
-  @media (max-width: v.$desktopWidth) {
+
+  // px 단위에 사칙연산 가능
+  @media (max-width: v.$desktopWidth - 1) {
     display: none;
   }
 }

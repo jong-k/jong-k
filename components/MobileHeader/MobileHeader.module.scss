@@ -1,0 +1,36 @@
+@use "styles/variables" as v;
+
+.wrapper {
+  width: 100%;
+  height: v.$mobileHeaderHeight;
+  background: v.$navy;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media (min-width: v.$desktopWidth) {
+    display: none;
+  }
+}
+
+.headerBox {
+  margin-left: 1.5rem;
+}
+
+.headerText {
+  color: v.$white;
+  font-weight: 100;
+  font-size: 2rem;
+
+  svg {
+    transform: translateY(12.5%);
+  }
+}
+
+.hamBtn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  margin-right: 0.75rem;
+}

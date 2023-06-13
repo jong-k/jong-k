@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { LuSigma } from "react-icons/lu";
 import s from "./Header.module.scss";
+import { MENU_LIST } from "enum";
 
 export default function Header() {
   return (
@@ -11,26 +12,13 @@ export default function Header() {
         <LuSigma />
       </h2>
       <nav className={s.navContainer}>
-        <div className={s.menu}>
-          <Link className={s.tab} href={"/"}>
-            Blog
-          </Link>
-        </div>
-        <div className={s.menu}>
-          <Link className={s.tab} href={"/about"}>
-            About
-          </Link>
-        </div>
-        <div className={s.menu}>
-          <Link className={s.tab} href={"/projects"}>
-            Projects
-          </Link>
-        </div>
-        <div className={s.menu}>
-          <Link className={s.tab} href={"/contact"}>
-            Contact
-          </Link>
-        </div>
+        {MENU_LIST.map((menu) => (
+          <div key={menu.id} className={s.menu}>
+            <Link className={s.tab} href={menu.url}>
+              {menu.title}
+            </Link>
+          </div>
+        ))}
       </nav>
     </header>
   );

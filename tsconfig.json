@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "paths": {
+      "@/buttons/*": ["components/common/buttons/*"]
+    },
     "lib": [
       "dom",
       "dom.iterable",

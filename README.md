@@ -1,11 +1,11 @@
-> 최종 수정일: 2025-08-13
+> 최종 수정일: 2025-08-26
 
 ## 비전
 세상을 조금 더 편리하게 만드는 프론트엔드 개발자
 
 > \[!NOTE]
 > Currently working on:
-> > [JavaScript 자료구조 및 알고리즘](https://github.com/jong-k/js-algorithms)
+> > [직접 개발하는 기술 블로그](https://github.com/jong-k/public-home)
 > > 
 > > [대규모 리액트 웹 앱 개발](https://github.com/jong-k/large-scale-react)
 

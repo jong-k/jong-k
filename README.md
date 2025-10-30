@@ -1,13 +1,13 @@
-> 최종 수정일: 2025-08-26
+> 최종 수정일: 2025-10-30
 
 ## 비전
 세상을 조금 더 편리하게 만드는 프론트엔드 개발자
 
 > \[!NOTE]
-> Currently working on:
-> > [직접 개발하는 기술 블로그](https://github.com/jong-k/public-home)
+> Currently working on: 링크 스퀴즈(URL 단축 서비스)
+> > [링크 스퀴즈 서버](https://github.com/jong-k/lnqz-server)
 > > 
-> > [대규모 리액트 웹 앱 개발](https://github.com/jong-k/large-scale-react)
+> > [링크 스퀴즈 클라이언트](https://github.com/jong-k/lnqz-client)
 
 ## 외부 링크
 - [티스토리 블로그](https://ggarden.tistory.com/)

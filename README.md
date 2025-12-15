@@ -1,12 +1,6 @@
 ## 비전
 세상을 조금 더 편리하게 만드는 프론트엔드 개발자
 
-> \[!NOTE]
-> Currently working on: 링크 스퀴즈(URL 단축 서비스)
-> > [링크 스퀴즈 서버](https://github.com/jong-k/lnqz-server)
-> > 
-> > [링크 스퀴즈 클라이언트](https://github.com/jong-k/lnqz-client)
-
 ## 외부 링크
 - [티스토리 블로그](https://ggarden.tistory.com/)
 
